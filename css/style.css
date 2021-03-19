@@ -1,0 +1,61 @@
+img {
+    width: 320px;
+    height: 320px;
+    box-shadow: 0 0 5px white;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#message {
+    padding: 10px;
+    background-color: rgb(106, 26, 151);
+    color: white;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+
+.wrapper {
+    border: 1px solid rgb(95, 41, 204);
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 320px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+button {
+    background-color: rgb(135, 92, 205);
+    font-weight: bold;
+    width: 200px;
+    color: white;
+}
+button:hover{
+    background-color: rgb(183, 138, 255);
+    transition: 1s;
+    border: 1px solid rgb(224, 170, 255);
+    box-shadow: 0 0 5px silver; 
+}
+
+#properties {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    font-size: 30px;
+}
+.property{
+    margin: 0;
+}
