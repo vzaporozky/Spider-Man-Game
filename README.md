@@ -2,5 +2,5 @@
 
 [Link](https://vzaporozky.github.io/Spider-Man-Game/)
 
-An application where 
+This is a playable application where are you can feed Peter Parker, put him to bed, make him a superhero who can fight enemies and flying.
 Technologies - HTML, CSS, JavaScript
